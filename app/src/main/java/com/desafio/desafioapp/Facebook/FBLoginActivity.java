@@ -46,14 +46,6 @@ public class FBLoginActivity extends AppCompatActivity {
 
 
 
-       /* if (tokenTracker == null){
-            Toast.makeText(this, "Faça Login...", Toast.LENGTH_SHORT).show();
-            startActivity(new Intent(FBLoginActivity.this, FBLoginActivity.class));
-        }else {
-            Toast.makeText(this, "Fazendo Login...", Toast.LENGTH_SHORT).show();
-            startActivity(new Intent(FBLoginActivity.this, MainActivity.class));
-        }*/
-
         loginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
             @Override
             public void onSuccess(LoginResult loginResult) {
