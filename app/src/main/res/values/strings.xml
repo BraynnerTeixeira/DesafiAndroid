@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Desafio App</string>
+    <string name="facebook_app_id">532158207584255</string>
+    <string name="fb_login_protocol_scheme">fb532158207584255</string>
+    <string name="pesquisa">Pesquisa</string>
+
+
+    <string name="radar_fragment">Radar</string>
+    <string name="lista_fragment">Lista</string>
+    <string name="perfil_fragment">Perfil</string>
+    <string name="title_activity_radar">Radar</string>
+
+
+    <string name="display_raw_results" translatable="false">Display raw results?</string>
+    <string name="find_current_place_button" translatable="false">Find Current Place</string>
+    <string name="use_custom_fields" translatable="false">Manually set Place Fields?</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
